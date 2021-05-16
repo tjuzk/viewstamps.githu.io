@@ -1,1 +1,1 @@
-# viewstamps.githu.io
+# viewstamps.github.io
